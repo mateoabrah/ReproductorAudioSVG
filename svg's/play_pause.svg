@@ -1,0 +1,5 @@
+<svg class="play-pause-btn" id="playPauseBtn" viewBox="0 0 64 64">
+    <polygon class="play" points="16,12 48,32 16,52"></polygon>
+    <rect class="pause" x="20" y="16" width="8" height="32" style="display:none"></rect>
+    <rect class="pause" x="36" y="16" width="8" height="32" style="display:none"></rect>
+</svg>
